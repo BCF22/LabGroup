@@ -1,5 +1,21 @@
-# LabGroup
+# DogYearsCalculator
 
-Our program takes your name and age and tells you how old you'd be in dog years. 
+`DogYearsCalculator` lets you easily convert your age to dog years.
 
-Members: Ben Farbo BCF22, Alex Lampe ajl146
+### Why?
+
+We wanted a tool that allows you to:
++ Seamlessly convert age to dog years
+
+### Installation
+
+Clone the github repo and launch the program using any software capable of running .ipynb files.
+
+### Usage
+
+To use this program, simply run LabGroup.ipynb
+
+### Contributors
+
++ Ben Farbo BCF22
++ Alex Lampe ajl146
