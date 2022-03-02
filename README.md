@@ -6,6 +6,7 @@
 
 We wanted a tool that allows you to:
 + Seamlessly convert age to dog years
++ To make sure the user inputs a valid answer
 
 ### Installation
 
