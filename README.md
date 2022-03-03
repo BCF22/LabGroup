@@ -8,6 +8,12 @@ We wanted a tool that allows you to:
 + Seamlessly convert age to dog years
 + To make sure the user inputs a valid answer
 
+
+## Why we chose our License and Code-of-Conduct
+
+We wanted to make sure our software was as open-source as possible. Allowing people to make meaning full contributions 
+within reason. This will allow for the code to grow through as it is added and tweaked by other public developers. 
+
 ### Installation
 
 Clone the github repo and launch the program using any software capable of running .ipynb files.
